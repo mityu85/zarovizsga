@@ -17,7 +17,7 @@ public class Kennel {
 
     public void feedAll() {
         for (Dog dog: dogs) {
-            dog.feed(); 
+            dog.feed();
         }
     }
 
